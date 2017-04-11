@@ -1,0 +1,9 @@
+{
+  "name": "auto-auth-web",
+  "version": "0.0.0",
+  "description": "AutoAuthWeb",
+  "main": "server.js",
+  "author": {
+    "name": "SKankanvar"
+  }
+}
